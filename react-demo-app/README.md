@@ -82,7 +82,7 @@ src/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/bluebommer/react-demo-app.git
+git clone https://github.com/bluebommer/App-Demo
 cd react-demo-app
 
 
